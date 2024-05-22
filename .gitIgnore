@@ -1,0 +1,11 @@
+/cypress/screenshots/*
+/cypress/videos/*
+/cypress/reports/*
+/cypress/cucumber-json/*
+/node_modules
+/cypress/report/*
+/report/*
+/test/
+*.rb
+/cypress/temp/*
+/.vscode/*
