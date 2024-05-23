@@ -1,22 +1,14 @@
 {
-  "name": "alura_cypress_automacao_de_testes_e2e-",
-  "description": "Alura Cypress: automação de testes E2E",
+  "name": "primeiro-projeto",
   "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/marcusdesouza27/alura_cypress_automacao_de_testes_e2e-.git"
-  },
-  "author": "Marcus Henrique",
+  "author": "Jacqueline Oliveira",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/marcusdesouza27/alura_cypress_automacao_de_testes_e2e-/issues"
-  },
-  "homepage": "https://github.com/marcusdesouza27/alura_cypress_automacao_de_testes_e2e-#readme",
   "devDependencies": {
-    "cypress": "9.1.1"
+    "cypress": "^9.1.1"
   }
 }
